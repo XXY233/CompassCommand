@@ -1,6 +1,7 @@
 # CompassCommand
 
 ## Introduction 
+#### A Plugin for Minecraft server
 
 * This plugin aim to line command to one item.When player act with the item,the command would be executed.
 * The plugin will try to avoid player to drop the item(You can choose whether enable this)
