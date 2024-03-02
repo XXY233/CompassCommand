@@ -43,7 +43,7 @@ CmdMessage: "§e你打开了主菜单"
 ```
 
 ## Other Words
-* if you find any bugs ,please contect me or leave a comment below
+* if you find any bugs ,please connect me or leave a comment below
 * i'm a chinese if there are grammatical error，hope you can understand:)
 
 ## contect
