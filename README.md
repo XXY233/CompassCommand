@@ -46,6 +46,6 @@ CmdMessage: "§e你打开了主菜单"
 * if you find any bugs ,please connect me or leave a comment below
 * i'm a chinese if there are grammatical error，hope you can understand:)
 
-## contect
+## contact me
 * 2964361672@qq.com(China)  QQ同号
 * 2964361672@outlook.com
