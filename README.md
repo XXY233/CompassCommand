@@ -7,6 +7,10 @@
 * The plugin will try to avoid player to drop the item(You can choose whether enable this)
 * When player join, it will give one item to player.
 
+## Note
+* If material compass conflict with other plugins,you can change the material to clock and other materials
+but do change the material to '''Watch''' if you want band the plugin with clock cause clock in bukkit api has changed to material.WATCH!
+
 ## Command
 ```/cpcreload``` reload the config
 
